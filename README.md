@@ -66,3 +66,8 @@ Cette extension respecte le style de code existant et s'intègre naturellement d
 - [LinkedIn](https://www.linkedin.com/in/chiheb-eddine-kebbas/)
 - [GitHub](https://github.com/Chihebkebbas)
 - [Portfolio](https://chihebkebbas.github.io/Portfolio/)
+
+
+## Remerciements
+
+Crédit au professeur [Dr. Pierre Jourlin](https://framagit.org/jourlin) pour son encadrement et ses ressources pédagogiques.
